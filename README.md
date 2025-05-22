@@ -6,13 +6,9 @@ important utility features in Java, including collections, exception handling, g
 ## Table of Contents
 - Overview
 - Topics Covered
-  - Collections
-  - Exceptions
-  - Generic
-  - Iostream
-  - Java8 Features
-  - Regex & Junit
-- Prerequisites
+  - 01 - Stack, Queue, HashMap & Hashing Functions
+  - 02 - Sorting Algorithms
+  - 03 & 04 - Linear & Binary Search
 - How to Use This Repository
 
 ## Overview
@@ -21,39 +17,23 @@ The fourth week introduced several essential components used in real-world Java 
 
 ## Topics Covered
 
-### Collections
-- List, Set, Map interfaces
-- ArrayList, LinkedList, HashSet, HashMap
-- Iterating over collections
-- Common operations and methods
+### 01 - Stack, Queue, HashMap & Hashing Functions
+- Stack implementation and operations (push, pop, peek)
+- Queue implementation and operations (enqueue, dequeue)
+- Introduction to HashMaps
+- Basic hashing concepts and functions
 
-### Exceptions
-- Types of exceptions (checked and unchecked)
-- try-catch blocks
-- throw and throws keywords
-- finally block and exception hierarchy
+### 02 - Sorting Algorithms
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Basic understanding of how each sort works and its complexity
 
-### Generic
-- Introduction to generics
-- Generic methods and classes
-- Bounded types and wildcards
-
-### Iostream
-- Input and Output streams
-- Reading from and writing to files
-- Byte streams and character streams
-
-### Java8 Features
-- Lambda expressions
-- Functional interfaces
-- Stream API basics
-- Method references and default methods
-
-### Regex & Junit
-- Basics of regular expressions in Java
-- Pattern matching with `Pattern` and `Matcher`
-- Introduction to JUnit testing framework
-- Writing and running basic unit tests
+### 03 & 04 - Linear & Binary Search
+- Linear search implementation
+- Binary search implementation
+- Prerequisites for binary search (sorted data)
+- Time complexity comparison
 
 ## Prerequisites
 - Completion of Week 1–3 content (Java basics, OOP, and DSA)
